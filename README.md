@@ -1,5 +1,5 @@
 # Praktek-membuat-kalkulator-UKK
 
-Nama   : Anugrah Bimantara
-No     : 03
-Kelas  : XII RPL 1
+Nama   : Anugrah Bimantara <br>
+No     : 03 <br>
+Kelas  : XII RPL 1 <br>
